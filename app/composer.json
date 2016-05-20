@@ -1,0 +1,12 @@
+{
+    "name": "hugofcampos/kongexample",
+    "require": {
+        "ignittion/Kong-php": "^1.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "firebase/php-jwt": "^3.0",
+        "lcobucci/jwt": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {"": "."}
+    }
+}
